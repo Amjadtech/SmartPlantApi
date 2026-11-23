@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SmartPlant.SeleniumTests/SmartPlant.SeleniumTests.csproj" />
+  <Project Path="SmartPlant.UnitTests/SmartPlant.UnitTests.csproj" />
+  <Project Path="SmartPlantApi/SmartPlantApi.csproj" />
+</Solution>
